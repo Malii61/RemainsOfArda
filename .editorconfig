@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS0612: Tür veya üye artık kullanılmıyor
+dotnet_diagnostic.CS0612.severity = none

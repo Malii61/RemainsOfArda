@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f3758f8f58fdef43803eb9be1df0608, type: 3}
+  m_Name: PhotonServerSettings
+  m_EditorClassIdentifier: 
+  AppSettings:
+    AppIdRealtime: 747ad5ec-af9a-4a99-8866-daa0e20a979f
+    AppIdFusion: 
+    AppIdChat: 
+    AppIdVoice: 781ba70e-6a94-42bc-a307-8423e3cb628d
+    AppVersion: 
+    UseNameServer: 1
+    FixedRegion: 
+    Server: 
+    Port: 0
+    ProxyServer: 
+    Protocol: 0
+    EnableProtocolFallback: 1
+    AuthMode: 0
+    EnableLobbyStatistics: 0
+    NetworkLogging: 1
+  DevRegion: tr
+  PunLogging: 0
+  EnableSupportLogger: 0
+  RunInBackground: 1
+  StartInOfflineMode: 0
+  RpcList:
+  - AdjustTime
+  - CantHearYou
+  - ChangeColour
+  - ClickRpc
+  - DestroyRpc
+  - DestroySpaceship
+  - Fire
+  - HeresWhy
+  - OpenMeshMenu
+  - OpenRoleMenu
+  - Pick
+  - RespawnSpaceship
+  - RPC_AddPickedRole
+  - RPC_BrokenGuilliotineInfo
+  - RPC_EliminationInfo
+  - RPC_SetDayTime
+  - RPC_Shoot
+  - SendMsg
+  - SetAnimationsOnEveryPC
+  - showMicSignal
+  - UpdateResultList
+  DisableAutoOpenWizard: 1
+  ShowSettings: 1
+  DevRegionSetOnce: 1
