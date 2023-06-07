@@ -62,7 +62,7 @@ https://github.com/Malii61/RemainsOfArda/assets/92629282/8058224a-d03f-4852-99c5
 
    
    
-Project Link: [https://github.com/Malii61/ChaosInTheKitchen](https://github.com/Malii61/ChaosInTheKitchen)
+Project Link: [https://github.com/Malii61/RemainsOfArda](https://github.com/Malii61/RemainsOfArda)
 
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
