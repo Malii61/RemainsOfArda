@@ -21,6 +21,7 @@ public class Newspaper : Item
     }
     public override void Use()
     {
+        Debug.Log("Kullanýyorsun");
         SetNewspaperContent();
     }
     public void SetNewspaperContent()

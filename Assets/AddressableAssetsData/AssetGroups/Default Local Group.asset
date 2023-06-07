@@ -21,6 +21,10 @@ MonoBehaviour:
     m_Address: Map
     m_ReadOnly: 0
     m_SerializedLabels: []
+  - m_GUID: f3ff61003df241e4a84f6c4962ed1e66
+    m_Address: Assets/Harita/Simple Water Shader HDRP/Shaders/WaterShaderHDRP.shadergraph
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 42ee81e999c15bd4ca02afe37f056d5b, type: 2}
   m_SchemaSet:

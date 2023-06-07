@@ -1,11 +1,9 @@
-using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
 using Photon.Pun;
 using Hashtable = ExitGames.Client.Photon.Hashtable;
-using System.Collections;
 
-public class BuyNewspaper : MonoBehaviour,I_Interactable
+public class BuyNewspaper : MonoBehaviour, I_Interactable
 {
     //layer
     LayerMask layer;

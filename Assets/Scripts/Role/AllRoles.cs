@@ -39,12 +39,10 @@ public class AllRoles : ScriptableObject
     };
     internal readonly Dictionary<string, string> mafiaRoles = new Dictionary<string, string>()
     {
-        //{  Roles.Imam.ToString() , "You are the " +  Roles.Imam.ToString() + " of " + Side.town.ToUpperInvariant() },
-        //{  Roles.Necromancer.ToString() , "You are the spirit master and the reviver in the " + Side.mafia.ToUpperInvariant()+"."},
-        //{  Roles.Schemer.ToString() , "Change the diaries, show the role of the players differently. Trick others to win with " + Side.mafia.ToUpperInvariant()},
-        //{  Roles.Belladonna.ToString() , "Poison and kill everyone to win"},
-        //{  Roles.Murderer.ToString() , "You are the murderer of " + Side.mafia.ToUpperInvariant()+". You have a pistol and limited bullets."},
-        {  Roles.Slayer.ToString(), "Become invisible and kill everyone silently with your sharp knife to win."},
+        {  Roles.Necromancer.ToString() , "You are the spirit master and the reviver in the " + Side.mafia.ToUpperInvariant()+"."},
+        {  Roles.Schemer.ToString() , "Change the diaries, show the role of the players differently. Trick others to win with " + Side.mafia.ToUpperInvariant()},
+        {  Roles.Belladonna.ToString() , "Poison and kill everyone to win"},
+        {  Roles.Murderer.ToString() , "You are the murderer of " + Side.mafia.ToUpperInvariant()+". You have a pistol and limited bullets."},
     };
     internal readonly Dictionary<string, string> otherRoles = new Dictionary<string, string>()
     {
