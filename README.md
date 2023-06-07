@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://github.com/Malii61/EscapeFromHorrorMansion">
-    <img src="Images/logo.png" alt="Logo" width="100" height="100">
+    <img src="Images/logo.jpg" alt="Logo" width="100" height="100">
   </a>
 
   <h3 align="center">Remains Of Arda</h3>
@@ -47,7 +47,11 @@ So let's move on to some of the game's features:
 
 
  ### Gameplay
-  <video src="/ReadmeImages/Gameplay (1).mp4" width="400" height="250"/>
+
+
+https://github.com/Malii61/RemainsOfArda/assets/92629282/8058224a-d03f-4852-99c5-869571c82c4b
+
+
  
   
 ### Installation
